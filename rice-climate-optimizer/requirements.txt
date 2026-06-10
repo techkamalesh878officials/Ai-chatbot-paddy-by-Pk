@@ -1,0 +1,9 @@
+# requirements.txt
+# No external libraries needed!
+# This project uses only Python built-in modules:
+#   - csv       (read/write CSV files)
+#   - os        (file path handling)
+#   - datetime  (date calculations)
+
+# To run the project, just make sure Python 3.7+ is installed.
+# Then run: python main.py

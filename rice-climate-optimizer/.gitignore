@@ -1,0 +1,25 @@
+# .gitignore
+# Files and folders Git should NOT upload to GitHub
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment folders
+venv/
+env/
+.env
+
+# VS Code settings
+.vscode/
+
+# Personal results (optional — remove this line if you WANT to upload your results)
+user_data/my_results.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/

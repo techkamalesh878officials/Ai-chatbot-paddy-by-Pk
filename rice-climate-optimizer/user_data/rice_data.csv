@@ -1,0 +1,13 @@
+month,rainfall_mm,temperature_c,humidity_percent,soil_type,sowing_date,harvest_date,yield_kg_per_hectare
+January,45,24,65,loam,2023-01-15,2023-05-20,4200
+February,38,26,60,clay,2023-02-10,2023-06-15,3800
+March,55,28,70,loam,2023-03-05,2023-07-10,4500
+April,80,30,75,sandy_loam,2023-04-01,2023-08-05,4100
+May,120,31,80,loam,2023-05-10,2023-09-15,4800
+June,180,29,85,clay,2023-06-01,2023-10-10,5200
+July,210,27,90,loam,2023-07-05,2023-11-08,5500
+August,190,27,88,loam,2023-08-01,2023-12-05,5300
+September,150,28,82,sandy_loam,2023-09-10,2024-01-15,4900
+October,90,27,75,clay,2023-10-05,2024-02-10,4400
+November,55,25,68,loam,2023-11-01,2024-03-08,4000
+December,40,23,62,loam,2023-12-10,2024-04-15,3900
