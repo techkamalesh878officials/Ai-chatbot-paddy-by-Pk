@@ -105,7 +105,7 @@ This tool uses **rule-based AI** — a set of expert agricultural rules to evalu
 - [ ] Add multi-crop support (wheat, corn, cotton)
 - [ ] Add a web interface using Flask
 
-- In the future, a big project will soon be useful to farmers.
+- Next version will include live weather data via Open-Meteo API and Tamil language support.
 ---
 
 *Built as part of a Python + AI portfolio project by *techkamalesh878officials.**
