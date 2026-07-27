@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/28796406/README.md)
+#To download this README Click here : [README.md](https://github.com/user-attachments/files/28796406/README.md)
 # 🌾 Rice Climate Risk & Precision Farming Assistant
 
 An AI-driven command-line tool that helps farmers decide **exactly when to sow and harvest rice** based on real-time climate inputs.
